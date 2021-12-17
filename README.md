@@ -1,4 +1,4 @@
-# Relógio Digital em Python
+# Relógio Digital 
 
 Relógio digital é um tipo de relógio que utiliza meios eletrônicos para manter as horas. 
 O relógio digital utiliza energia elétrica que é normalmente suprida por uma bateria de pequena carga. 
